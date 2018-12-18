@@ -3,7 +3,8 @@
 
 # SPARK 源码分析技术分享 (带bilibili视频)
 【本站点已不在更新中......2018-12-09......】
-- SPARK 2.4.0 学习笔记分享 : https://github.com/opensourceteams/spark-scala-maven-2.4.0
+- 本站已不在更新，由于选的spark版本为1.6,是老版本
+- SPARK 2.4.0 学习笔记分享(持续更新中) : https://github.com/opensourceteams/spark-scala-maven-2.4.0
 
 
 ## 更多资源
